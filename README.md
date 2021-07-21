@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Passionate about AI, ML and Distributed Systems </h3>
 
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-vimoxshah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vimoxshah/)](https://www.linkedin.com/in/vimoxshah/)
+[![Twitter Badge](https://img.shields.io/badge/-Vimox_shah-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/Vimox_shah)](https://www.twitter.com/Vimox_shah)
+[![Instagram Badge](https://img.shields.io/badge/-vimox.shah-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vimox.shah/)](https://www.instagram.com/vimox.shah/)
+[![Gmail Badge](https://img.shields.io/badge/-vmoksh.shah179@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmoksh.shah179@gmail.com)](mailto:vmoksh.shah179@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=vimoxshah.vimoxshah)
                              
 <br />
 
@@ -49,15 +52,7 @@ Here are some ideas to get you started:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  
-Connect with me on 
-<a href="https://twitter.com/Vimox_shah">
-  <img  alt="Vimox Shah's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vimoxshah/">
-  <img  alt="Vimox's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=vimoxshah.vimoxshah)
                                
                               
