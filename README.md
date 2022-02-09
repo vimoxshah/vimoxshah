@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 
 - 🔭  I’m currently working on Access Control Product at Genea as Senior Software Enginner.
-- 🌱  I’m currently learning Javascript, NodeJS & ReactJS.
+- 🌱  I’m currently learning Javascript, NodeJS
 - 🤔  I’m looking for help in learning Frontend technologies.
 - 📫  How to reach me: you can contact me through Linkedin and Twitter.
 - 💼  Any freelance/consulting work? do reach, [email](mailto:vmoksh.shah179@gmail.com) :)
